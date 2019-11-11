@@ -16,8 +16,7 @@ skinparam Shadowing false
 skinparam backgroundColor #2d2d2d
 skinparam Arrow {
   Color Foregound
-  FontColor Foregound
-'  FontStyle Bold
+  FontColor Yellow
 }
 skinparam Default {
   FontName Menlo
