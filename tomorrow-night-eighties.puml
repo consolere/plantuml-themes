@@ -17,11 +17,12 @@ skinparam backgroundColor #2d2d2d
 skinparam Arrow {
   Color Foregound
   FontColor Foregound
-  FontStyle Bold
+'  FontStyle Bold
 }
 skinparam Default {
   FontName Menlo
-  FontColor #fdfdfd
+'  FontColor #fdfdfd
+  FontColor Red
 }
 skinparam package {
   FontColor Purple
@@ -56,3 +57,7 @@ skinparam interface {
   FontColor Green
 }
 
+skinparam object {
+  BackgroundColor CurrentLine
+'  BorderColor Selection
+}
