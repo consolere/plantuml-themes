@@ -60,3 +60,8 @@ skinparam object {
   BackgroundColor CurrentLine
 '  BorderColor Selection
 }
+
+skinparam card {
+  BackgroundColor CurrentLine
+  BorderColor Selection
+}
