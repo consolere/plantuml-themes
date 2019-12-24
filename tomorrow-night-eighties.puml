@@ -65,3 +65,8 @@ skinparam card {
   BackgroundColor CurrentLine
   BorderColor Selection
 }
+
+skinparam queue {
+  BackgroundColor CurrentLine
+  BorderColor Selection
+}
